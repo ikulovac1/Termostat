@@ -1,0 +1,869 @@
+[0;31mE (4272) flinkRepository: Failed to open file for reading: /spiffs/macAddr5.txt[0m
+[0;31mE (4272) flinkRepository: Reading file: /spiffs/calibration1.txt[0m
+[0;31mE (4372) flinkRepository: Failed to open file for reading: /spiffs/calibration1.txt[0m
+[0;31mE (4372) flinkRepository: Reading file: /spiffs/day0.txt[0m
+[0;31mE (4472) flinkRepository: Failed to open file for reading: /spiffs/day0.txt[0m
+[0;31mE (4472) flinkRepository: Reading file: /spiffs/day1.txt[0m
+[0;31mE (4572) flinkRepository: Failed to open file for reading: /spiffs/day1.txt[0m
+[0;31mE (4572) flinkRepository: Reading file: /spiffs/day2.txt[0m
+[0;31mE (4672) flinkRepository: Failed to open file for reading: /spiffs/day2.txt[0m
+[0;31mE (4672) flinkRepository: Reading file: /spiffs/day3.txt[0m
+[0;31mE (4772) flinkRepository: Failed to open file for reading: /spiffs/day3.txt[0m
+[0;31mE (4772) flinkRepository: Reading file: /spiffs/day4.txt[0m
+[0;31mE (4872) flinkRepository: Failed to open file for reading: /spiffs/day4.txt[0m
+[0;31mE (4872) flinkRepository: Reading file: /spiffs/day5.txt[0m
+[0;31mE (4972) flinkRepository: Failed to open file for reading: /spiffs/day5.txt[0m
+[0;31mE (4972) flinkRepository: Reading file: /spiffs/day6.txt[0m
+[0;31mE (5072) flinkRepository: Failed to open file for reading: /spiffs/day6.txt[0m
+[0;31mE (5072) flinkRepository: Reading file: /spiffs/thermostat.txt[0m
+[0;31mE (5092) flinkRepository: Read from file: '0.00'[0m
+[0;31mE (5092) flinkRepository: buffer: '0.00'[0m
+[0;31mE (5132) flinkRepository: Reading file: /spiffs/calibration.txt[0m
+[0;31mE (5222) flinkRepository: Failed to open file for reading: /spiffs/calibration.txt[0m
+[0;32mI (5232) flinkRepository: Trying to read int, /spiffs/nopd.txt
+[0m
+[0;32mI (5232) flinkRepository: content declared 
+[0m
+[0;31mE (5232) flinkRepository: Reading file: /spiffs/nopd.txt[0m
+[0;31mE (5322) flinkRepository: Read from file: '1'[0m
+[0;31mE (5322) flinkRepository: buffer: '1'[0m
+[0;31mE (5322) flinkRepository: Reading file: /spiffs/mode.txt[0m
+[0;31mE (5352) flinkRepository: Read from file: 'M'[0m
+[0;31mE (5352) flinkRepository: buffer: 'M'[0m
+[0;31mE (5352) flinkRepository: Reading file: /spiffs/manual.txt[0m
+[0;31mE (5362) flinkRepository: Read from file: '33.50'[0m
+[0;31mE (5362) flinkRepository: buffer: '33.50'[0m
+[0;32mI (5372) flinkRepository: Trying to read int, /spiffs/state.txt
+[0m
+[0;32mI (5372) flinkRepository: content declared 
+[0m
+[0;31mE (5382) flinkRepository: Reading file: /spiffs/state.txt[0m
+[0;31mE (5482) flinkRepository: Read from file: '1'[0m
+[0;31mE (5482) flinkRepository: buffer: '1'[0m
+[0;31mE (5482) flinkRepository: Reading file: /spiffs/eco.txt[0m
+[0;31mE (5492) flinkRepository: Read from file: '17.00'[0m
+[0;31mE (5492) flinkRepository: buffer: '17.00'[0m
+[0;31mE (5502) flinkRepository: Reading file: /spiffs/comfor.txt[0m
+[0;31mE (5502) flinkRepository: Read from file: '35.00'[0m
+[0;31mE (5512) flinkRepository: buffer: '35.00'[0m
+[0;31mE (5512) flinkRepository: Reading file: /spiffs/hysteresis.txt[0m
+[0;31mE (5622) flinkRepository: Failed to open file for reading: /spiffs/hysteresis.txt[0m
+[0;32mI (5622) flinkRepository: Trying to read int, /spiffs/adaptive.txt
+[0m
+[0;32mI (5632) flinkRepository: content declared 
+[0m
+[0;31mE (5632) flinkRepository: Reading file: /spiffs/adaptive.txt[0m
+[0;31mE (5742) flinkRepository: Failed to open file for reading: /spiffs/adaptive.txt[0m
+[0;32mI (5742) flinkRepository: Trying to read int, /spiffs/wod.txt
+[0m
+[0;32mI (5742) flinkRepository: content declared 
+[0m
+[0;31mE (5752) flinkRepository: Reading file: /spiffs/wod.txt[0m
+[0;31mE (5852) flinkRepository: Failed to open file for reading: /spiffs/wod.txt[0m
+[0;31mE (5852) flinkRepository: Reading file: /spiffs/antifrostTemp.txt[0m
+[0;31mE (5862) flinkRepository: Read from file: '5.00'[0m
+[0;31mE (5862) flinkRepository: buffer: '5.00'[0m
+[0;32mI (5862) flinkRepository: Trying to read int, /spiffs/overheat.txt
+[0m
+[0;32mI (5872) flinkRepository: content declared 
+[0m
+[0;31mE (5882) flinkRepository: Reading file: /spiffs/overheat.txt[0m
+[0;31mE (5982) flinkRepository: Failed to open file for reading: /spiffs/overheat.txt[0m
+[0;32mI (5982) flinkRepository: Trying to read int, /spiffs/lostRF.txt
+[0m
+[0;32mI (5992) flinkRepository: content declared 
+[0m
+[0;31mE (5992) flinkRepository: Reading file: /spiffs/lostRF.txt[0m
+[0;31mE (6092) flinkRepository: Failed to open file for reading: /spiffs/lostRF.txt[0m
+[0;32mI (6092) flinkRepository: Trying to read int, /spiffs/restarts.txt
+[0m
+[0;32mI (6102) flinkRepository: content declared 
+[0m
+[0;31mE (6102) flinkRepository: Reading file: /spiffs/restarts.txt[0m
+[0;31mE (6212) flinkRepository: Read from file: '0'[0m
+[0;31mE (6212) flinkRepository: buffer: '0'[0m
+[0;31mE (6222) flinkRepository: Reading file: /spiffs/states.txt[0m
+[0;31mE (6322) flinkRepository: Failed to open file for reading: /spiffs/states.txt[0m
+[0;33mW (6322) STATES: NO STATES SAVED[0m
+[0;32mI (6322) gpio: GPIO[13]| InputEn: 0| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (6332) flinkRepository: Trying to read int, /spiffs/brightness1R.txt
+[0m
+[0;32mI (6342) flinkRepository: content declared 
+[0m
+[0;31mE (6342) flinkRepository: Reading file: /spiffs/brightness1R.txt[0m
+[0;31mE (6442) flinkRepository: Failed to open file for reading: /spiffs/brightness1R.txt[0m
+[0;32mI (6442) LED: Brightness iz spiffsa: 255[0m
+[0;32mI (6452) flinkRepository: Trying to read int, /spiffs/brightness1G.txt
+[0m
+[0;32mI (6452) flinkRepository: content declared 
+[0m
+[0;31mE (6462) flinkRepository: Reading file: /spiffs/brightness1G.txt[0m
+[0;31mE (6562) flinkRepository: Failed to open file for reading: /spiffs/brightness1G.txt[0m
+[0;32mI (6562) LED: Brightness iz spiffsa: 255[0m
+[0;32mI (6562) flinkRepository: Trying to read int, /spiffs/brightness1B.txt
+[0m
+[0;32mI (6572) flinkRepository: content declared 
+[0m
+[0;31mE (6582) flinkRepository: Reading file: /spiffs/brightness1B.txt[0m
+[0;31mE (6682) flinkRepository: Failed to open file for reading: /spiffs/brightness1B.txt[0m
+[0;32mI (6682) LED: Brightness iz spiffsa: 255[0m
+[0;31mE (6682) flinkRepository: Reading file: /spiffs/isPaired.txt[0m
+[0;31mE (6762) flinkRepository: Read from file: '1'[0m
+[0;31mE (6762) flinkRepository: buffer: '1'[0m
+[0;32mI (6772) gpio: GPIO[0]| InputEn: 0| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (6772) gpio: GPIO[0]| InputEn: 0| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (6782) gpio: GPIO[0]| InputEn: 0| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (6792) gpio: GPIO[0]| InputEn: 0| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (6802) gpio: GPIO[0]| InputEn: 0| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (6822) flinkRepository: Trying to read int, /spiffs/rfid1.txt
+[0m
+[0;32mI (6822) flinkRepository: content declared 
+[0m
+[0;31mE (6822) flinkRepository: Reading file: /spiffs/rfid1.txt[0m
+[0;31mE (6922) flinkRepository: Read from file: '228'[0m
+[0;31mE (6922) flinkRepository: buffer: '228'[0m
+[0;32mI (6932) flinkRepository: Trying to read int, /spiffs/rfid2.txt
+[0m
+[0;32mI (6932) flinkRepository: content declared 
+[0m
+[0;31mE (6942) flinkRepository: Reading file: /spiffs/rfid2.txt[0m
+[0;31mE (6942) flinkRepository: Read from file: '75'[0m
+[0;31mE (6952) flinkRepository: buffer: '75'[0m
+RF:    Address:: 228, 75
+SPI COMMUNICATION OK
+KREIRAN RF TASK 
+Update me in list called
+[0;33mW (6962) CONTROLLER: Number of paired devices: 2[0m
+Safety task created 
+[0;33mW (6972) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (6972) MQTT_DEBUG: Parrent connected 0[0m
+[0;32mI (6982) MQTT_DEBUG: Mesh is not root[0m
+[0;32mI (6982) MQTT_DEBUG: Client is NULL[0m
+[0;32mI (6982) MQTT_DEBUG: MQTT start is not called[0m
+[0;31mE (6992) flinkRepository: Reading file: /spiffs/log.txt[0m
+[0;31mE (7092) flinkRepository: Read from file: '{
+	"OH_TimeStamps":	[1654773917, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+	"TotalLogs":	0,
+	"MinsOver70":	0,
+	"MinsOver100":	0
+}'[0m
+[0;31mE (7102) flinkRepository: buffer: '{
+	"OH_TimeStamps":	[1654773917, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+	"TotalLogs":	0,
+	"MinsOver70":	0,
+	"MinsOver100":	0
+}'[0m
+ReadOHData: {
+	"OH_TimeStamps":	[1654773917, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+	"TotalLogs":	0,
+	"MinsOver70":	0,
+	"MinsOver100":	0
+}[0;33mW (7972) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (8152) main: HEAP: current: 98340, lowest: 98340[0m
+[0;32mI (9162) main: HEAP: current: 97884, lowest: 97884[0m
+[0;32mI (10172) main: HEAP: current: 97392, lowest: 97392[0m
+[0;32mI (10832) device: TimeResync counter: 1[0m
+[0;33mW (10832) TIME:: ESP_ROOT: 1[0m
+[0;33mW (10832) TIME:: ESP_MQTT: 0[0m
+[0;33mW (10832) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (10832) TIME:: ESP_TIME_COUNTER: 1[0m
+[0;33mW (10832) TIME:: ESP_FIRST: 1[0m
+[0;32mI (11182) main: HEAP: current: 89116, lowest: 89116[0m
+[0;33mW (11222) RF: SKIPPED ADDING ELLAPSED TIME[0m
+[0;33mW (11222) RF: TALKING WITH THERMOSTAT: 0[0m
+[0;33mW (11222) RF: CONNECTED: 0[0m
+[0;33mW (11222) RF: ELLAPSED FROM LAST RF: 10383[0m
+[0;32mI (11232) MESH: Poslata poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[120, 33, 132, 94, 70, 72],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	false,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	2,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	false
+}[0m
+[0;31mE (11622) POSLATA PORUKA: : 0/1[0m
+[0;31mE (11622) MESH: Stigla mi poruka od mene[0m
+[0;32mI (11982) NTC States: Temperature 37.099998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (12002) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (12002) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (12002) MQTT_DEBUG: Client is NULL[0m
+[0;32mI (12002) MQTT_DEBUG: MQTT start is not called[0m
+[0;32mI (12002) mqtt: MQTT URL: mqtts://206.81.17.144[0m
+[0;32mI (12012) mqtt: MQTT Port: 8883[0m
+[0;32mI (12012) mqtt: Last will topic: 84cca8362926/6a6170e7d2ec419cbf2752612140f6ae[0m
+[0;32mI (12022) mqtt: [APP] Free memory: 80912 bytes[0m
+[0;32mI (12032) mqtt: Other event id:7[0m
+[0;31mE (12032) esp-tls: [sock=54] connect() error: Host is unreachable[0m
+[0;31mE (12042) esp-tls: Failed to open new connection[0m
+[0;31mE (12042) TRANSPORT_BASE: Failed to open a new connection[0m
+[0;31mE (12052) MQTT_CLIENT: Error transport connect[0m
+[0;32mI (12052) mqtt: MQTT_EVENT_ERROR[0m
+[0;32mI (12062) mqtt: Last error code reported from esp-tls: 0x8004[0m
+[0;32mI (12062) mqtt: Last tls stack error number: 0x0[0m
+[0;32mI (12072) mqtt: Last captured errno : 0 (Success)[0m
+[0;32mI (12072) mqtt: MQTT_EVENT_DISCONNECTED[0m
+[0;32mI (12082) MESH: Poslata poruka: {
+	"isMqttConnected":	false
+}[0m
+[0;32mI (12192) main: HEAP: current: 72084, lowest: 72084[0m
+[0;31mE (12422) POSLATA PORUKA: : 0/1[0m
+[0;31mE (12422) MESH: Stigla mi poruka od mene[0m
+[0;32mI (12712) MESH: Poslata poruka: {
+	"mqttInfoVersion":	2,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	false
+}[0m
+[0;31mE (12822) POSLATA PORUKA: : 0/2[0m
+[0;31mE (12822) MESH: Stigla mi poruka od mene[0m
+[0;31mE (12822) POSLATA PORUKA: : 1/2[0m
+[0;32mI (13202) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (13232) CONTROLLER TAG: Primljena poruka: {
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	false
+}[0m
+[0;32mI (13262) esp_netif_handlers: sta ip: 192.168.1.175, mask: 255.255.255.0, gw: 192.168.1.1[0m
+[0;32mI (13662) CONTROLLER TAG: Primljena poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	false,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	false
+}[0m
+[0;32mI (13722) MESH: Poslata poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	false,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	false
+}[0m
+[0;31mE (14032) POSLATA PORUKA: : 0/2[0m
+[0;31mE (14032) POSLATA PORUKA: : 1/2[0m
+[0;31mE (14032) MESH: Stigla mi poruka od mene[0m
+[0;32mI (14212) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (15222) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (16232) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (16992) NTC States: Temperature 37.099998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (17042) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (17042) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (17042) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (17042) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (17242) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (18252) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (19262) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (20272) main: HEAP: current: 70296, lowest: 70296[0m
+[0;32mI (20852) device: TimeResync counter: 2[0m
+[0;33mW (20852) TIME:: ESP_ROOT: 1[0m
+[0;33mW (20852) TIME:: ESP_MQTT: 0[0m
+[0;33mW (20852) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (20852) TIME:: ESP_TIME_COUNTER: 2[0m
+[0;33mW (20852) TIME:: ESP_FIRST: 1[0m
+[0;32mI (21282) main: HEAP: current: 70296, lowest: 70296[0m
+[0;33mW (21462) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (22002) NTC States: Temperature 37.099998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;31mE (22002) flinkRepository: Reading file: /spiffs/btFinished.txt[0m
+[0;31mE (22032) flinkRepository: Read from file: '0'[0m
+[0;31mE (22032) flinkRepository: buffer: '0'[0m
+[0;33mW (22042) MESH SETUP: ELLAPSED 0[0m
+[0;33mW (22042) MESH SETUP: SETTING SELF ORGANISED FIRST TIME[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+[0;32mI (22082) mqtt: Other event id:7[0m
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+[0;33mW (22462) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;33mW (22662) RF: SKIPPED ADDING ELLAPSED TIME[0m
+[0;33mW (22662) RF: TALKING WITH THERMOSTAT: 0[0m
+[0;33mW (22662) RF: CONNECTED: 0[0m
+[0;33mW (22662) RF: ELLAPSED FROM LAST RF: 21173[0m
+[0;32mI (22672) MESH: Poslata poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[120, 33, 132, 94, 70, 72],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	false,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	false
+}[0m
+[0;32mI (22732) main: HEAP: current: 35700, lowest: 35700[0m
+[0;32mI (22732) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (22732) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (22732) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (22742) MQTT_DEBUG: MQTT start is called[0m
+[0;31mE (22842) POSLATA PORUKA: : 0/2[0m
+[0;31mE (22842) MESH: Stigla mi poruka od mene[0m
+[0;31mE (22842) POSLATA PORUKA: : 1/2[0m
+[0;32mI (23442) mqtt: MQTT_EVENT_CONNECTED[0m
+[0;31mE (23442) MQTT: mqtt connected[0m
+[0;32mI (23442) mqtt: Subscribing to topic: 6a6170e7d2ec419cbf2752612140f6ae/84cca8362926[0m
+[0;32mI (23442) mqtt: Subscribing return value: 45544[0m
+[0;32mI (23462) TAG: 84cca8362926/6a6170e7d2ec419cbf2752612140f6ae[0m
+Update me in list called
+[0;32mI (23472) mqtt: Usao da posalje poruku[0m
+[0;32mI (23482) TAG: 84cca8362926/6a6170e7d2ec419cbf2752612140f6ae/program[0m
+[0;32mI (23482) mqtt: Usao da posalje poruku[0m
+[0;32mI (23482) MESH: Poslata poruka: {
+	"isMqttConnected":	true
+}[0m
+[0;31mE (23482) MQTT: Subscribed to topic 6a6170e7d2ec419cbf2752612140f6ae/84cca8362926[0m
+[0;32mI (23492) device: TimeResync in -11 itterations[0m
+[0;32mI (23532) mqtt: MQTT_EVENT_SUBSCRIBED, msg_id=45544[0m
+[0;32mI (23642) mqtt: MQTT_EVENT_PUBLISHED, msg_id=2817[0m
+[0;31mE (23652) POSLATA PORUKA: : 0/2[0m
+[0;31mE (23652) MESH: Stigla mi poruka od mene[0m
+[0;31mE (23652) POSLATA PORUKA: : 1/2[0m
+[0;32mI (23652) mqtt: MQTT_EVENT_PUBLISHED, msg_id=11567[0m
+[0;32mI (23742) main: HEAP: current: 38756, lowest: 35700[0m
+[0;32mI (24752) main: HEAP: current: 38756, lowest: 35700[0m
+[0;32mI (25762) main: HEAP: current: 38756, lowest: 35700[0m
+Update me in list called
+[0;32mI (26342) Relay: Checking relay state[0m
+[0;32mI (26772) main: HEAP: current: 38756, lowest: 35700[0m
+[0;32mI (26882) CONTROLLER TAG: Primljena poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+[0;32mI (26932) MESH: Poslata poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+Checking MESH config status
+Current heap size: 38756
+Minimum ever heap size: 28772
+[0;32mI (27002) TAG: 84cca8362926/6a6170e7d2ec419cbf2752612140f6ae[0m
+Update me in list called
+[0;32mI (27012) mqtt: Usao da posalje poruku[0m
+[0;32mI (27032) NTC States: Temperature 37.099998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (27222) mqtt: MQTT_EVENT_PUBLISHED, msg_id=57044[0m
+[0;31mE (27262) POSLATA PORUKA: : 0/2[0m
+[0;31mE (27262) POSLATA PORUKA: : 1/2[0m
+[0;31mE (27272) MESH: Stigla mi poruka od mene[0m
+[0;32mI (27752) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (27752) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (27752) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (27752) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (27782) main: HEAP: current: 38476, lowest: 35700[0m
+[0;32mI (28792) main: HEAP: current: 38476, lowest: 35700[0m
+[0;32mI (29802) main: HEAP: current: 38476, lowest: 35700[0m
+[0;32mI (30812) main: HEAP: current: 38476, lowest: 35700[0m
+[0;32mI (30872) device: TimeResync counter: -10[0m
+[0;33mW (30872) TIME:: ESP_ROOT: 1[0m
+[0;33mW (30872) TIME:: ESP_MQTT: 1[0m
+[0;33mW (30872) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (30872) TIME:: ESP_TIME_COUNTER: -10[0m
+[0;33mW (30872) TIME:: ESP_FIRST: 1[0m
+[0;32mI (31812) main: HEAP: current: 38476, lowest: 35700[0m
+[0;32mI (32042) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (32762) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (32762) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (32762) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (32762) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (32822) main: HEAP: current: 38476, lowest: 35700[0m
+[0;32mI (33832) main: HEAP: current: 38476, lowest: 35700[0m
+Poslata poruka: 76 33 50 17 0 35 0 5 0 0 37 128 5 1 0 0 0 85 85 85 85 85 85 0 0 0 1 1 0 1 3 1 2 0 0 
+[0;32mI (34252) MESH: Poslata poruka: {
+	"enabled":	"1",
+	"mode":	"M",
+	"trenutnaT":	26.799999237060547,
+	"manuelnaT":	33.5,
+	"programT":	35,
+	"eco":	17,
+	"com":	35,
+	"hys":	0.5,
+	"cal":	0.5,
+	"grijanje":	"1",
+	"wifi":	5,
+	"open":	1,
+	"adaptive":	0,
+	"sensorRoom":	1,
+	"sesnorOverheat":	1,
+	"overheat":	100,
+	"lock":	0,
+	"antifrost":	5,
+	"version":	152,
+	"battery":	55,
+	"trenutniOverheat":	37,
+	"brightness":	20,
+	"numOfInternetResets":	0,
+	"totalNumOfResets":	1,
+	"totalLostRFS":	0,
+	"ellapsedRF":	33320,
+	"rfMsg":	[75, 1, 26, 30, 37, 128, 174, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+}[0m
+[0;32mI (34312) TAG: 84cca8362926/6a6170e7d2ec419cbf2752612140f6ae[0m
+Update me in list called
+[0;32mI (34322) mqtt: Usao da posalje poruku[0m
+[0;31mE (34472) POSLATA PORUKA: : 0/2[0m
+[0;31mE (34472) POSLATA PORUKA: : 1/2[0m
+[0;31mE (34482) MESH: Stigla mi poruka od mene[0m
+[0;32mI (34512) mqtt: MQTT_EVENT_PUBLISHED, msg_id=58969[0m
+[0;32mI (34842) main: HEAP: current: 34884, lowest: 34884[0m
+[0;32mI (35852) main: HEAP: current: 34884, lowest: 34884[0m
+[0;33mW (35952) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (36862) main: HEAP: current: 34884, lowest: 34884[0m
+[0;33mW (36952) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (37052) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;33mW (37112) MESH SETUP: ELLAPSED 15064[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+[0;32mI (37772) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (37772) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (37772) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (37772) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (37872) main: HEAP: current: 37612, lowest: 34884[0m
+[0;32mI (38882) main: HEAP: current: 37612, lowest: 34884[0m
+[0;32mI (39892) main: HEAP: current: 37612, lowest: 34884[0m
+Checking mesh connection status 
+Receiver found in network: 84:cc:a8:36:29:24
+[0;32mI (40892) device: TimeResync counter: -9[0m
+[0;33mW (40892) TIME:: ESP_ROOT: 1[0m
+[0;33mW (40892) TIME:: ESP_MQTT: 1[0m
+[0;33mW (40892) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (40892) TIME:: ESP_TIME_COUNTER: -9[0m
+[0;33mW (40892) TIME:: ESP_FIRST: 1[0m
+[0;32mI (40912) main: HEAP: current: 37612, lowest: 34884[0m
+[0;32mI (41922) main: HEAP: current: 37612, lowest: 34884[0m
+[0;32mI (42062) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+Mesh disconnect occured
+[0;32mI (42352) MESH: Poslata poruka: {
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+[0;31mE (42422) POSLATA PORUKA: : 0/2[0m
+[0;31mE (42422) MESH: Stigla mi poruka od mene[0m
+[0;31mE (42422) POSLATA PORUKA: : 1/2[0m
+[0;32mI (42782) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (42782) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (42782) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (42782) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (42932) main: HEAP: current: 37604, lowest: 34884[0m
+[0;32mI (43572) CONTROLLER TAG: Primljena poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+[0;32mI (43622) MESH: Poslata poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+[0;32mI (43692) TAG: 84cca8362926/6a6170e7d2ec419cbf2752612140f6ae[0m
+Update me in list called
+[0;32mI (43702) mqtt: Usao da posalje poruku[0m
+[0;32mI (43942) main: HEAP: current: 34104, lowest: 34104[0m
+[0;31mE (44022) POSLATA PORUKA: : 0/2[0m
+[0;31mE (44022) POSLATA PORUKA: : 1/2[0m
+[0;31mE (44032) MESH: Stigla mi poruka od mene[0m
+[0;32mI (44052) mqtt: MQTT_EVENT_PUBLISHED, msg_id=5261[0m
+[0;32mI (44952) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (45962) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (46972) main: HEAP: current: 37604, lowest: 34104[0m
+Checking MESH config status
+Current heap size: 37604
+Minimum ever heap size: 26820
+[0;32mI (47072) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (47792) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (47792) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (47792) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (47792) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (47982) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (48992) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (50002) main: HEAP: current: 37604, lowest: 34104[0m
+[0;33mW (50442) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+Update me in list called
+[0;32mI (50912) device: TimeResync counter: -8[0m
+[0;33mW (50912) TIME:: ESP_ROOT: 1[0m
+[0;33mW (50912) TIME:: ESP_MQTT: 1[0m
+[0;33mW (50912) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (50912) TIME:: ESP_TIME_COUNTER: -8[0m
+[0;33mW (50912) TIME:: ESP_FIRST: 1[0m
+[0;32mI (51012) main: HEAP: current: 37604, lowest: 34104[0m
+[0;33mW (51442) PROTECTION TASK: Largest free heap block: 16384[0m
+[0;33mW (51442) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (52022) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (52082) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;33mW (52172) MESH SETUP: ELLAPSED 30123[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+[0;32mI (52802) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (52802) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (52802) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (52802) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (53032) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (54042) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (54152) Relay: Checking relay state[0m
+[0;32mI (55052) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (56062) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (57072) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (57092) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (57812) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (57812) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (57812) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (57812) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (58082) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (59092) main: HEAP: current: 34488, lowest: 34104[0m
+[0;32mI (60102) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (60932) device: TimeResync counter: -7[0m
+[0;33mW (60932) TIME:: ESP_ROOT: 1[0m
+[0;33mW (60932) TIME:: ESP_MQTT: 1[0m
+[0;33mW (60932) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (60932) TIME:: ESP_TIME_COUNTER: -7[0m
+[0;33mW (60932) TIME:: ESP_FIRST: 1[0m
+[0;32mI (61112) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (62102) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (62122) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (62822) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (62822) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (62822) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (62822) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (63132) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (64142) main: HEAP: current: 37604, lowest: 34104[0m
+[0;33mW (64932) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (65152) main: HEAP: current: 37604, lowest: 34104[0m
+[0;33mW (65932) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (66162) main: HEAP: current: 37604, lowest: 34104[0m
+Checking MESH config status
+Current heap size: 37604
+Minimum ever heap size: 26820
+[0;32mI (67112) NTC States: Temperature 37.000000, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+Checking overheatData
+[0;32mI (67172) main: HEAP: current: 37604, lowest: 34104[0m
+[0;33mW (67222) MESH SETUP: ELLAPSED 45173[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+[0;32mI (67832) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (67832) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (67832) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (67832) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (68182) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (69192) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (70202) main: HEAP: current: 37604, lowest: 34104[0m
+Checking mesh connection status 
+Receiver found in network: 84:cc:a8:36:29:24
+[0;32mI (70952) device: TimeResync counter: -6[0m
+[0;33mW (70952) TIME:: ESP_ROOT: 1[0m
+[0;33mW (70952) TIME:: ESP_MQTT: 1[0m
+[0;33mW (70952) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (70952) TIME:: ESP_TIME_COUNTER: -6[0m
+[0;33mW (70952) TIME:: ESP_FIRST: 1[0m
+[0;32mI (71212) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (72122) NTC States: Temperature 37.099998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (72222) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (72842) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (72842) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (72842) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (72842) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (73232) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (74162) Relay: Checking relay state[0m
+[0;32mI (74242) main: HEAP: current: 34488, lowest: 34104[0m
+[0;32mI (75252) main: HEAP: current: 37604, lowest: 34104[0m
+Update me in list called
+[0;32mI (76262) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (77132) NTC States: Temperature 37.099998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (77272) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (77852) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (77852) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (77852) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (77852) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (78282) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (79292) main: HEAP: current: 37604, lowest: 34104[0m
+[0;33mW (79422) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (80302) main: HEAP: current: 37604, lowest: 34104[0m
+[0;33mW (80422) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (80972) device: TimeResync counter: -5[0m
+[0;33mW (80972) TIME:: ESP_ROOT: 1[0m
+[0;33mW (80972) TIME:: ESP_MQTT: 1[0m
+[0;33mW (80972) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (80972) TIME:: ESP_TIME_COUNTER: -5[0m
+[0;33mW (80972) TIME:: ESP_FIRST: 1[0m
+[0;32mI (81312) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (82142) NTC States: Temperature 37.099998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;33mW (82272) MESH SETUP: ELLAPSED 60223[0m
+[0;33mW (82272) MESH SETUP: SETTING SELF ORGANISED[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+[0;32mI (82332) main: HEAP: current: 37604, lowest: 34104[0m
+Updateing my state in list to petoential 1
+[0;32mI (82862) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (82862) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (82862) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (82862) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (83342) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (84352) main: HEAP: current: 37604, lowest: 34104[0m
+[0;32mI (85362) main: HEAP: current: 37604, lowest: 34104[0m

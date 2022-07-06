@@ -1,0 +1,118 @@
+[0;32mI (9275) CONTROLLER TAG: Primljena poruka: {
+	"setList":	true,
+	"version":	152,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	3,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"6a6170e7d2ec419cbf2752612140f6ae",
+	"mac":	"84cca8362926",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+[0;32mI (10095) main: HEAP: current: 89104, lowest: 89104[0m
+[0;32mI (10845) device: TimeResync counter: 1[0m
+[0;33mW (10845) TIME:: ESP_ROOT: 0[0m
+[0;33mW (10845) TIME:: ESP_MQTT: 0[0m
+[0;33mW (10845) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (10845) TIME:: ESP_TIME_COUNTER: 1[0m
+[0;33mW (10845) TIME:: ESP_FIRST: 1[0m
+[0;32mI (11105) main: HEAP: current: 88768, lowest: 88768[0m
+[0;32mI (11905) NTC States: Temperature 38.900002, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (11925) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (11925) MQTT_DEBUG: Mesh is not root[0m
+[0;32mI (11925) MQTT_DEBUG: Client is NULL[0m
+[0;32mI (11925) MQTT_DEBUG: MQTT start is not called[0m
+[0;32mI (12115) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (13125) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (14135) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (15145) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (16155) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (16915) NTC States: Temperature 38.900002, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (16935) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (16935) MQTT_DEBUG: Mesh is not root[0m
+[0;32mI (16935) MQTT_DEBUG: Client is NULL[0m
+[0;32mI (16935) MQTT_DEBUG: MQTT start is not called[0m
+[0;32mI (17165) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (18175) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (19185) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (20195) main: HEAP: current: 88908, lowest: 88768[0m
+[0;32mI (20865) device: TimeResync counter: 2[0m
+[0;33mW (20865) TIME:: ESP_ROOT: 0[0m
+[0;33mW (20865) TIME:: ESP_MQTT: 0[0m
+[0;33mW (20865) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (20865) TIME:: ESP_TIME_COUNTER: 2[0m
+[0;33mW (20865) TIME:: ESP_FIRST: 1[0m
+[0;32mI (21205) main: HEAP: current: 88576, lowest: 88576[0m
+[0;33mW (21385) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (21925) NTC States: Temperature 38.900002, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;31mE (21925) flinkRepository: Reading file: /spiffs/btFinished.txt[0m
+[0;31mE (21955) flinkRepository: Read from file: '0'[0m
+[0;31mE (21955) flinkRepository: buffer: '0'[0m
+[0;33mW (21965) MESH SETUP: ELLAPSED 0[0m
+[0;33mW (21965) MESH SETUP: SETTING SELF ORGANISED FIRST TIME[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH NODE
+Mesh is active
+Mesh is not root fixed
+Mesh is in 2 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 1
+My address 84:cc:a8:36:29:24
+Parent address is 78:21:84:5e:46:49
+Printing addresses in route table
+Address 0 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+[0;32mI (22035) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (22035) MQTT_DEBUG: Mesh is not root[0m
+[0;32mI (22035) MQTT_DEBUG: Client is NULL[0m
+[0;32mI (22035) MQTT_DEBUG: MQTT start is not called[0m
+[0;32mI (22215) main: HEAP: current: 88696, lowest: 88576[0m
+[0;33mW (22385) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (23225) main: HEAP: current: 88696, lowest: 88576[0m
+[0;32mI (24235) main: HEAP: current: 88696, lowest: 88576[0m
+[0;32mI (25245) main: HEAP: current: 88696, lowest: 88576[0m
+Update me in list called
+[0;32mI (26255) main: HEAP: current: 88696, lowest: 88576[0m
+[0;32mI (26265) Relay: Checking relay state[0m
+Checking MESH config status
+Current heap size: 88576
+Minimum ever heap size: 84092
+[0;32mI (26935) NTC States: Temperature 38.900002, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (27045) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (27045) MQTT_DEBUG: Mesh is not root[0m
+[0;32mI (27045) MQTT_DEBUG: Client is NULL[0m
+[0;32mI (27045) MQTT_DEBUG: MQTT start is not called[0m
+[0;32mI (27265) main: HEAP: current: 88576, lowest: 88576[0m
+[0;32mI (28275) main: HEAP: current: 88688, lowest: 88576[0m
+[0;32mI (29285) main: HEAP: current: 88688, lowest: 88576[0m
+[0;32mI (30295) main: HEAP: current: 88688, lowest: 88576[0m
+[0;32mI (30885) device: TimeResync counter: 3[0m
+[0;33mW (30885) TIME:: ESP_ROOT: 0[0m
+[0;33mW (30885) TIME:: ESP_MQTT: 0[0m
+[0;33mW (30885) TIME:: ESP_TIME_UPDATED: 0[0m
+[0;33mW (30885) TIME:: ESP_TIME_COUNTER: 3[0m
+[0;33mW (30885) TIME:: ESP_FIRST: 1[0m
+[0;32mI (31305) main: HEAP: current: 88688, lowest: 88576[0m

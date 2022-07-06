@@ -1,0 +1,359 @@
+[0;32mI (655593) device: TimeResync counter: 43[0m
+[0;33mW (655593) TIME:: ESP_ROOT: 1[0m
+[0;33mW (655593) TIME:: ESP_MQTT: 1[0m
+[0;33mW (655593) TIME:: ESP_TIME_UPDATED: 1[0m
+[0;33mW (655593) TIME:: ESP_TIME_COUNTER: 43[0m
+[0;33mW (655603) TIME:: ESP_FIRST: 0[0m
+[0;32mI (655633) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (655633) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (655633) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (655633) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (655643) NTC States: Temperature 37.700001, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (655983) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (656993) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (658003) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (659013) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (659083) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (660023) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (660083) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (660643) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (660643) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (660643) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (660643) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (660653) NTC States: Temperature 37.700001, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (661033) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (662043) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (662393) Relay: Checking relay state[0m
+Calculate relay: Auto
+Reletive set temperature: 35.000000
+Calculating relay: measuredTemp 27.309999, setTemp 35.000000, mode M 
+Seting relay state 1
+[0;32mI (663053) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (664063) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (665073) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (665613) device: TimeResync counter: 44[0m
+[0;33mW (665613) TIME:: ESP_ROOT: 1[0m
+[0;33mW (665613) TIME:: ESP_MQTT: 1[0m
+[0;33mW (665613) TIME:: ESP_TIME_UPDATED: 1[0m
+[0;33mW (665613) TIME:: ESP_TIME_COUNTER: 44[0m
+[0;33mW (665623) TIME:: ESP_FIRST: 0[0m
+[0;32mI (665653) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (665653) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (665653) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (665653) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (665663) NTC States: Temperature 37.700001, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (666083) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (667093) main: HEAP: current: 32340, lowest: 28124[0m
+Checking overheatData
+Checking MESH config status
+Current heap size: 32340
+Minimum ever heap size: 19628
+[0;32mI (668103) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (669113) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (669423) MESH SETUP: ELLAPSED 45159[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+[0;32mI (670123) main: HEAP: current: 32340, lowest: 28124[0m
+Checking mesh connection status 
+Receiver found in network: 84:cc:a8:36:29:24
+[0;32mI (670663) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (670663) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (670663) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (670663) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (670673) NTC States: Temperature 37.599998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (671133) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (672143) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (673153) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (673573) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (674163) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (674573) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (675173) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (675633) device: TimeResync counter: 45[0m
+[0;33mW (675633) TIME:: ESP_ROOT: 1[0m
+[0;33mW (675633) TIME:: ESP_MQTT: 1[0m
+[0;33mW (675633) TIME:: ESP_TIME_UPDATED: 1[0m
+[0;33mW (675633) TIME:: ESP_TIME_COUNTER: 45[0m
+[0;33mW (675643) TIME:: ESP_FIRST: 0[0m
+[0;32mI (675673) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (675673) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (675673) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (675673) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (675683) NTC States: Temperature 37.599998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+Update me in list called
+[0;32mI (676183) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (676543) CONTROLLER TAG: Primljena poruka: {
+	"setList":	true,
+	"version":	151,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"ellapsedFromRF":	47478,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	2,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"030d1cd806b146899869d5e14ea5f453",
+	"mac":	"7821845e464a",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+[0;32mI (676603) MESH: Poslata poruka: {
+	"setList":	true,
+	"version":	151,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"ellapsedFromRF":	47478,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	2,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"030d1cd806b146899869d5e14ea5f453",
+	"mac":	"7821845e464a",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true,
+	"unixTime":	1654900234
+}[0m
+[0;33mW (676663) RF: ELLAPSED FROM LAST RF RESET: 47478[0m
+Reletive set temperature: 35.000000
+[0;32mI (676673) TAG: 7821845e464a/030d1cd806b146899869d5e14ea5f453[0m
+Update me in list called
+[0;32mI (676683) mqtt: Usao da posalje poruku[0m
+[0;31mE (676803) POSLATA PORUKA: : 0/2[0m
+[0;31mE (676803) POSLATA PORUKA: : 1/2[0m
+[0;31mE (676813) MESH: Stigla mi poruka od mene[0m
+[0;32mI (676813) mqtt: MQTT_EVENT_PUBLISHED, msg_id=24512[0m
+[0;32mI (677193) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (677343) CONTROLLER TAG: Primljena poruka: {
+	"setList":	true,
+	"version":	151,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"ellapsedFromRF":	48559,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	2,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"030d1cd806b146899869d5e14ea5f453",
+	"mac":	"7821845e464a",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true
+}[0m
+[0;32mI (677403) MESH: Poslata poruka: {
+	"setList":	true,
+	"version":	151,
+	"enabled":	1,
+	"receiverMac":	[132, 204, 168, 54, 41, 36],
+	"errorsActive":	0,
+	"updatePending":	false,
+	"connectedMqtt":	true,
+	"wodMesh":	1,
+	"ellapsedFromRF":	48559,
+	"receiversArray":	[{
+			"mac":	[120, 33, 132, 94, 70, 72]
+		}, {
+			"mac":	[132, 204, 168, 54, 41, 36]
+		}],
+	"mqttInfoVersion":	2,
+	"wifiSsid":	"BSMART",
+	"wifiPass":	"flinkhome",
+	"mqttIP":	"206.81.17.144",
+	"mqttPort":	"8883",
+	"httpPort":	"29193",
+	"uuid":	"030d1cd806b146899869d5e14ea5f453",
+	"mac":	"7821845e464a",
+	"mqttPass":	"mojpassword",
+	"mqttUsername":	"flinkic",
+	"isMqttConnected":	true,
+	"unixTime":	1654900235
+}[0m
+Reletive set temperature: 35.000000
+[0;32mI (677473) TAG: 7821845e464a/030d1cd806b146899869d5e14ea5f453[0m
+Update me in list called
+[0;32mI (677483) mqtt: Usao da posalje poruku[0m
+[0;31mE (677613) POSLATA PORUKA: : 0/2[0m
+[0;31mE (677613) POSLATA PORUKA: : 1/2[0m
+[0;31mE (677623) MESH: Stigla mi poruka od mene[0m
+[0;32mI (677623) mqtt: MQTT_EVENT_PUBLISHED, msg_id=30528[0m
+[0;32mI (678203) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (679213) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (680223) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (680683) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (680683) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (680683) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (680683) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (680693) NTC States: Temperature 37.599998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (681233) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (682243) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (682403) Relay: Checking relay state[0m
+Calculate relay: Auto
+Reletive set temperature: 35.000000
+Calculating relay: measuredTemp 27.309999, setTemp 35.000000, mode M 
+Seting relay state 1
+[0;32mI (683253) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (684263) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (684473) MESH SETUP: ELLAPSED 60209[0m
+[0;33mW (684473) MESH SETUP: SETTING SELF ORGANISED[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+[0;32mI (685273) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (685653) device: TimeResync counter: 46[0m
+[0;33mW (685653) TIME:: ESP_ROOT: 1[0m
+[0;33mW (685653) TIME:: ESP_MQTT: 1[0m
+[0;33mW (685653) TIME:: ESP_TIME_UPDATED: 1[0m
+[0;33mW (685653) TIME:: ESP_TIME_COUNTER: 46[0m
+[0;33mW (685663) TIME:: ESP_FIRST: 0[0m
+[0;32mI (685693) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (685693) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (685693) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (685693) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (685703) NTC States: Temperature 37.599998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (686283) main: HEAP: current: 32340, lowest: 28124[0m
+Checking MESH config status
+Current heap size: 32340
+Minimum ever heap size: 19628
+[0;32mI (687293) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (688063) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (688303) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (689063) PROTECTION TASK: Largest free heap block: 16384[0m
+[0;33mW (689063) SAFETY TASK: MQTT COUNTER: 0[0m
+[0;32mI (689313) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (690323) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (690703) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (690703) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (690703) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (690703) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (690713) NTC States: Temperature 37.599998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (691333) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (692343) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (693353) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (694363) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (695373) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (695673) device: TimeResync counter: 47[0m
+[0;33mW (695673) TIME:: ESP_ROOT: 1[0m
+[0;33mW (695673) TIME:: ESP_MQTT: 1[0m
+[0;33mW (695673) TIME:: ESP_TIME_UPDATED: 1[0m
+[0;33mW (695673) TIME:: ESP_TIME_COUNTER: 47[0m
+[0;33mW (695683) TIME:: ESP_FIRST: 0[0m
+[0;32mI (695713) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (695713) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (695713) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (695713) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (695723) NTC States: Temperature 37.599998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+[0;32mI (696383) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (697393) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (698403) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (699413) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (699533) MESH SETUP: ELLAPSED 15059[0m
+-----------------------------------------------
+Mesh is initialized
+Mesh SP is not active
+Mesh type is MESH ROOT
+Mesh is active
+Mesh is not root fixed
+Mesh is in 1 layer
+Mesh has tree topology
+Mesh conflicts are not allowed
+Mesh 76:0d:c1:3b:42:ca communicating address
+Mesh 76:0d:c1:3b:42:ca current address
+Mesh has 2 number of devices in network
+Mesh is self organised
+Mesh route table size 2
+My address 78:21:84:5e:46:48
+Parent address is 34:36:54:f9:bf:cd
+Printing addresses in route table
+Address 0 is 78:21:84:5e:46:48
+Address 1 is 84:cc:a8:36:29:24
+-----------------------------------------------
+Updateing my state in list to petoential 1
+Checking mesh connection status 
+Receiver found in network: 84:cc:a8:36:29:24
+[0;32mI (700423) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (700723) MQTT_DEBUG: Parrent connected 1[0m
+[0;32mI (700723) MQTT_DEBUG: Mesh is root[0m
+[0;32mI (700723) MQTT_DEBUG: Client is not NULL[0m
+[0;32mI (700723) MQTT_DEBUG: MQTT start is called[0m
+[0;32mI (700733) NTC States: Temperature 37.599998, antifrostState 1, overheatState 1, errorState 0, ntcState 1[0m
+Update me in list called
+[0;32mI (701433) main: HEAP: current: 32340, lowest: 28124[0m
+[0;32mI (702413) Relay: Checking relay state[0m
+Calculate relay: Auto
+Reletive set temperature: 35.000000
+Calculating relay: measuredTemp 27.309999, setTemp 35.000000, mode M 
+Seting relay state 1
+[0;32mI (702443) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (702553) PROTECTION TASK: CHECKING SAFETY VALUES...[0m
+[0;32mI (703453) main: HEAP: current: 32340, lowest: 28124[0m
+[0;33mW (703553) SAFETY TASK: MQTT COUNTER: 0[0m
